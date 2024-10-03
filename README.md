@@ -7,5 +7,6 @@
 ## 💻 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,nodejs,vscode,ps,ai,figma,github,discord&theme=light)](https://skillicons.dev)</br>
 
-Wondering where to go next?
-- bla bla bla
+
+## Wondering where to go next?
+- 
